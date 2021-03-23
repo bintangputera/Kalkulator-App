@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator App</string>
+    <string name="masukkan_nilai_pertama">Masukkan nilai pertama</string>
+    <string name="masukkan_nilai_kedua">Masukkan nilai kedua</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="bagi">/</string>
+    <string name="kali">*</string>
+    <string name="hasil">Hasil</string>
+    <string name="dummy">-</string>
+</resources>
